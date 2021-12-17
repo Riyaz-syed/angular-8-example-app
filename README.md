@@ -20,7 +20,7 @@ Click for running example:
 
 ![angular-8-example-app](https://github.com/angularexample/angular-8-example-app/blob/master/src/assets/images/angular-8-example-app.png)
 
-## Same App In React and Polymer
+## Same App In React and Polymercsdsdsds
 
 Here is the same app written in React and Polymer:
 
