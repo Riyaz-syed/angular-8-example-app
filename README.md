@@ -17,7 +17,7 @@ Click for running example:
 [angular-8-example-app](https://angularexample.github.io/angular-8-example-app)
 
 ### Screen Shot
-
+sasas
 ![angular-8-example-app](https://github.com/angularexample/angular-8-example-app/blob/master/src/assets/images/angular-8-example-app.png)
 
 ## Same App In React and Polymercsdsdsds
